@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pGenerateBRG config block
+
+ProcessConfig = pGenerateBRG
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pPositionEstimate config block
+
+ProcessConfig = pPositionEstimate
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

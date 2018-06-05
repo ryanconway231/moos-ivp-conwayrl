@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pTGT_Simulator config block
+
+ProcessConfig = pTGT_Simulator
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+
